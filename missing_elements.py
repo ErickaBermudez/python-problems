@@ -30,3 +30,5 @@ list1 = [1, 2, 3, 4, 5]
 list2 = [1, 2, 4, 0]
 
 print(getMissingElements(list1, list2))
+
+# The time complexity is O(n), n being the length of the longest list.
